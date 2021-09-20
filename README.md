@@ -1,5 +1,5 @@
 # Meal App
-## Peiqi Liu(Leo) (pl2285@nyu.edu)
+#### Peiqi Liu(Leo) (pl2285@nyu.edu)
 Meal APP is an online suggestion system that provides restaurants an opportunity to exhibit their most delicious meals and provides the customers with information concerned with the most popular restaurants in the city and the best food provided by a given restaurant.
 
 ### What and why?
